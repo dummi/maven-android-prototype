@@ -1,0 +1,5 @@
+bin/*
+target/*
+gen/*
+.settings/*
+lint.xml
